@@ -15,16 +15,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-chapter1.png",
-          "bytes": 152081,
-          "sha256": "b4954a24dab13f40f3603c912637aa79dfd3056c39cefacb5c4a5b42b73b2c34",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-chapter1.png",
+          "bytes": 169056,
+          "sha256": "58504d7c9a0d99985593a0509a0a0a47557064d0d7875395794996c91b4f9916",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Orin inherits a broken sky-core and a valley disappearing beneath ash.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter1, chapter 1, simulation tick 240.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter1, chapter 1, simulation tick 240.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -41,16 +41,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-chapter2.png",
-          "bytes": 154182,
-          "sha256": "3df18113d42809cc086756ae2b570d58fc725d1fcea3f7e3415d67701a4f1569",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-chapter2.png",
+          "bytes": 171159,
+          "sha256": "25aaab071c766463f89a8f93b0a1652bf0249099e6974c1ec6725f86b913f37a",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Tala marks the approaches. Higher floors buy time, but unsupported towers will not stand.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter2, chapter 2, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter2, chapter 2, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -67,16 +67,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-chapter3.png",
-          "bytes": 156042,
-          "sha256": "5fa6735883be3ba6a13eb3e0b6a09494fb4c1538351ce9a46db4d6abbc432ec3",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-chapter3.png",
+          "bytes": 173319,
+          "sha256": "f42ec8574a4f1e03e7404b96cad29a58ca0b789cfd6c514503b623c2aec71feb",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "The last beacon needs a refuge tall and strong enough for the storm crossing.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter3, chapter 3, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter3, chapter 3, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -93,16 +93,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-menu.png",
-          "bytes": 127074,
-          "sha256": "361563ff57e4d4cf9a20d067d756d2799583f1864d5ce52e5d71f1213e2680a4",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-menu.png",
+          "bytes": 124697,
+          "sha256": "08c984edd3ef04a71d795b2b515cefe730d5f3b7687c2719bcd477974eda47c4",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind menu, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: menu, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -116,16 +116,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-story.png",
-          "bytes": 135198,
-          "sha256": "8ad8ac22c4a1fae4ed197cc2b1adca413217db336e1a02cbf90663e5839ec907",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-story.png",
+          "bytes": 135199,
+          "sha256": "005c9001e62c19bf33028301e6ccfe4e5dd0029fee83d09d0ee210018f45a92c",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -139,16 +139,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-victory1.png",
-          "bytes": 167760,
-          "sha256": "f019fca38c0075a79f3d3e539a00921f2f21b8e11412742367a94284a1dae3d5",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-victory1.png",
+          "bytes": 179465,
+          "sha256": "06ec71d819544fda5c3387708f6020f24c30c7652726946424ab6a10aec3543a",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory1, chapter 1, simulation tick 1093.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory1, chapter 1, simulation tick 1093.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -162,16 +162,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-story2.png",
-          "bytes": 143025,
-          "sha256": "3de336d5055254a6fccebe5b26ea4029efc1c3112db6816140a0d06bd82247aa",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-story2.png",
+          "bytes": 142740,
+          "sha256": "dad1f06cc2fbc51f6f5e57cde6d1b77cd420f51d889aac4f9c2728b3d1eb7361",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story2, chapter 2, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story2, chapter 2, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -185,16 +185,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-victory2.png",
-          "bytes": 182881,
-          "sha256": "03affb8925d9f8f859b64878ed501fa56b6fd11b35429a1d6cbd796c6f1ea071",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-victory2.png",
+          "bytes": 194320,
+          "sha256": "cf4304a7a40ec235dbd77ddeafefd1857c84e2f15da1a040152849e166ebae41",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory2, chapter 2, simulation tick 1387.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory2, chapter 2, simulation tick 1387.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -208,16 +208,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-story3.png",
-          "bytes": 140135,
-          "sha256": "8c4dca232024a77cf55655407366889b78f11155ed69f529886678ed9809284f",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-story3.png",
+          "bytes": 139938,
+          "sha256": "0c80ddd5a50752db7b8c0eb9062b93f428372927b8237fb579a168c628bd1fe3",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story3, chapter 3, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story3, chapter 3, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -231,16 +231,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-victory3.png",
-          "bytes": 204125,
-          "sha256": "deb237791da9e87cdb374870736fc69849e91674bbb2292c74c1312a2bccdc30",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-victory3.png",
+          "bytes": 215779,
+          "sha256": "5526030ae5a884f9284e3686bd59f611388fb8e0c7a17c9e5f753a06087f9b69",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory3, chapter 3, simulation tick 1733.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory3, chapter 3, simulation tick 1733.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -254,16 +254,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/skyhold-siege/2026-10-13/gameplay-finale.png",
-          "bytes": 176374,
-          "sha256": "43234965067c1e7606c0e5043671e7721a0c3387ffa7ed985e2660ca886adbae",
+          "path": "Portfolio/Previews/polish/2026-10-13/skyhold-siege/gameplay-finale.png",
+          "bytes": 176529,
+          "sha256": "12e0783858c3b2cb4c12659ecfbde8dae61160333efc8db8d3085c22e87cb171",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind finale, chapter 3, simulation tick 1733.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: finale, chapter 3, simulation tick 1733.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [

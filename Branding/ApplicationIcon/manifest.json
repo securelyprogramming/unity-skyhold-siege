@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#a7b8ff",
+    "kind": "original-vector",
+    "motif": "Tower on a floating island",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "94d8a05870f5edc2493ee32be86bdd0e23749de08ec50f912bcad289a37bda26"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 16997,
+      "sha256": "60f094d0f924a0c73945b48dedbfbc4dd49b971b1abbd36ec33e105b05663590"
+    },
+    "icon-16.png": {
+      "bytes": 872,
+      "sha256": "cdef8b79e99b751504ba514a7b79ea17fb3bd734e1d59e901cf5d53221a2ee95"
+    },
+    "icon-256.png": {
+      "bytes": 45706,
+      "sha256": "bf4ab2f91419e35071056f66e50535e649382dc1111a7dbf58d92b055078af89"
+    },
+    "icon-32.png": {
+      "bytes": 2294,
+      "sha256": "e70752c030f44bd2e26f5d4166c6f3eb62004cadab841d5ea5fe95238f9daf72"
+    },
+    "icon-512.png": {
+      "bytes": 120657,
+      "sha256": "d189162b86d1cb7563a1507563482124dae5cc6a0389c207b47ba7489434a151"
+    },
+    "icon-64.png": {
+      "bytes": 6491,
+      "sha256": "2135ad68a95712f46d333ecc3b8c3bcbce65fdd1fde98a095d326a9d68d3c24e"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "9f580541bab3685ab079a07e4920244e9a5aa8c9677616252abaca09cd2d885c"
+    },
+    "icon.icns": {
+      "bytes": 567250,
+      "sha256": "008bb238be7a82288177d4c589e4be63330b4a6f761ef835861b8042b531b7ca"
+    },
+    "icon.ico": {
+      "bytes": 79324,
+      "sha256": "d10fa719a20db4bf79df998ddb06a90c2592038faae908f93e7fbec277f3eecf"
+    },
+    "icon.png": {
+      "bytes": 239263,
+      "sha256": "a0eb1e78e1503397ff39456e0841b25c579306a076ef3b71e96d66f4a608e5ee"
+    },
+    "source.png": {
+      "bytes": 231767,
+      "sha256": "94d8a05870f5edc2493ee32be86bdd0e23749de08ec50f912bcad289a37bda26"
+    },
+    "source.svg": {
+      "bytes": 1478,
+      "sha256": "596e500488e11d6fd165893c04f93a04726615f4755e28aea24c190359c9bbed"
+    }
+  },
+  "gameId": "skyhold-siege",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}
