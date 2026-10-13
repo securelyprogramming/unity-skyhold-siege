@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "skyhold-siege",
+  "title": "Skyhold Siege",
+  "engine": "Unity",
+  "family": "Tower survival",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Stack and reinforce firing towers, collect materials, and defend a core through siege waves. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-skyhold-siege",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-skyhold-siege/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-skyhold-siege/tools/StageBuilder/stage-catalog.json"
+}

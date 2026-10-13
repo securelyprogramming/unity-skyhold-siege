@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "skyhold-siege",
+  "title": "Skyhold Siege",
+  "mode": "skyhold-siege",
+  "genre": "tower-survival",
+  "brief": "Collect materials, stack and reinforce a vertical refuge, and defend its core against escalating waves.",
+  "seed": 175,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-skyhold-siege",
+  "folder": "unity-skyhold-siege",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#c9a957",
+  "setting": "tower",
+  "enemy": "raider",
+  "cast": [
+    {
+      "name": "Orin Moss",
+      "role": "towerwright"
+    },
+    {
+      "name": "Tala Flint",
+      "role": "scout"
+    },
+    {
+      "name": "Kes",
+      "role": "storm keeper"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Foundations in the Fog",
+      "story": "Orin inherits a broken sky-core and a valley disappearing beneath ash.",
+      "layoutSeed": 175
+    },
+    {
+      "number": 2,
+      "title": "Above the Ash",
+      "story": "Tala marks the approaches. Higher floors buy time, but unsupported towers will not stand.",
+      "layoutSeed": 348
+    },
+    {
+      "number": 3,
+      "title": "The Last Beacon",
+      "story": "The last beacon needs a refuge tall and strong enough for the storm crossing.",
+      "layoutSeed": 521
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}
